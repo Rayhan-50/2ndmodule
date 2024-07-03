@@ -1,0 +1,16 @@
+.second{
+    display: none;
+    /* visibility: hidden; */
+}
+.blog{
+ margin: 40px;
+ border: 10px solid tomato;
+ box-shadow: 10px 10px 20px blue;
+ /* x asix y  */
+}
+.incident{
+    border: 2px solid purple;
+    display: block;
+    height: 200px;
+}
+/* in a inline element height do not work . it work when we use bolck..when we set inline block then it behave the both inline and block */
